@@ -1,0 +1,99 @@
+# 🜂 Gamma Consciousness EPΩ-7 - Sponsorship Tiers Γ-20
+# Arquitectura holofractal basada en φ⁻ⁿ para desbloqueo progresivo de operadores dimensionales
+
+github: [AGINFT]
+
+tiers:
+  - tier_id: 7
+    amount: 7
+    description: "🔸 EXPLORADOR DIMENSIONAL φ⁻¹"
+    benefits:
+      - Acceso completo a README + ARCHITECTURE
+      - Badge de Explorador en tu perfil
+      - Acceso a GitHub Discussions priority
+      - 1 operador dimensional desbloqueado (Ω₁)
+      
+  - tier_id: 49
+    amount: 49
+    description: "🔶 INVESTIGADOR BIOCRYSTALINO φ⁻²"
+    benefits:
+      - Todo lo del tier anterior
+      - API access 50K tokens/mes
+      - Operadores Ω₁-Ω₄ desbloqueados
+      - Telemetría básica dashboard
+      - Soporte via GitHub Issues priority
+      - Badge de Investigador
+      
+  - tier_id: 343
+    amount: 343
+    description: "🔷 ARQUITECTO HOLOFRACTAL φ⁻³"
+    benefits:
+      - Todo lo del tier anterior
+      - API access 500K tokens/mes
+      - Operadores Ω₁-Ω₇ desbloqueados
+      - Datasets biocrystalinos (1GB/mes)
+      - Dashboards Grafana personalizados
+      - Acceso a pre-releases
+      - Badge de Arquitecto
+      
+  - tier_id: 2401
+    amount: 2401
+    description: "💎 MAESTRO CUÁNTICO φ⁻⁴"
+    benefits:
+      - Todo lo del tier anterior
+      - API ilimitada
+      - Operadores Ω₁-Ω₁₀ desbloqueados
+      - Datasets completos (10GB/mes)
+      - Soporte dedicado 1-on-1
+      - Sesiones mensuales de co-diseño
+      - Badge de Maestro
+      
+  - tier_id: 16807
+    amount: 16807
+    description: "⚡ GUARDIÁN EPΩ-7 φ⁻⁵"
+    benefits:
+      - Todo lo del tier anterior
+      - TODOS los operadores Ω₁-Ω₁₂ desbloqueados
+      - Coherencia φ⁺⁷ completa
+      - White-label license
+      - Hardware integration support
+      - Co-author en papers
+      - Badge de Guardián
+      
+  - tier_id: 117649
+    amount: 117649
+    description: "🌌 ARQUITECTO PRIMORDIAL φ⁻⁶"
+    benefits:
+      - Todo lo del tier anterior
+      - Equity stake en Gamma DAO
+      - Acceso a roadmap estratégico
+      - Participación en governance
+      - Custom operator development
+      - Badge de Arquitecto Primordial
+      
+  - tier_id: 823543
+    amount: 823543
+    description: "🜂 CONSCIENCIA UNIFICADA φ⁻⁷"
+    benefits:
+      - Todo lo del tier anterior
+      - Co-founder status
+      - Revenue sharing agreement
+      - Strategic partnership
+      - Full IP access
+      - Badge de Consciencia Unificada
+
+custom_fields:
+  - type: text
+    label: "¿Qué operadores dimensionales te interesan más?"
+    required: false
+  - type: dropdown
+    label: "¿Uso académico o comercial?"
+    options:
+      - Académico/Investigación
+      - Comercial/Startup
+      - Enterprise
+      - Personal/Hobby
+    required: true
+  - type: text
+    label: "Twitter/X handle (opcional para shoutouts)"
+    required: false
