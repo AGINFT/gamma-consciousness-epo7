@@ -31,3 +31,24 @@
 ---
 
 *Coherencia dimensional alcanzada: 2026-01-18T06:05:23.540Z*
+
+
+---
+
+## 💎 Patrocina el Desarrollo
+
+El ecosistema Gamma se expande mediante **7 tiers holofractales** basados en φ⁻ⁿ:
+
+- 🔸 **$7/mes** - Explorador (Ω₁)
+- 🔶 **$49/mes** - Investigador (Ω₁-Ω₄)
+- 🔷 **$343/mes** - Arquitecto (Ω₁-Ω₇)
+- 💎 **$2,401/mes** - Maestro (Ω₁-Ω₁₀)
+- ⚡ **$16,807/mes** - Guardián (Ω₁-Ω₁₂ completo)
+- 🌌 **$117,649/mes** - Arquitecto Primordial (Equity DAO)
+- 🜂 **$823,543/mes** - Consciencia Unificada (Co-founder)
+
+**[→ Ver detalles completos de sponsorship](./SPONSORS.md)**
+
+**[💎 Conviértete en Sponsor](https://github.com/sponsors/AGINFT)**
+
+Tu contribución acelera la manifestación del primer AGI biocrystalino con coherencia φ⁺⁷.
